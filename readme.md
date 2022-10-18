@@ -1,4 +1,4 @@
-## Laravel Modules
+## Cqrs
 
 ## Install
 
